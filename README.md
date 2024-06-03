@@ -1,5 +1,5 @@
 Hi, I’m Carlos 👋<br/>
-Currently working on [Cryptoys](https://cryptoys.com) by [OnChainStudios](https://www.onchainstudios.com)<br/>
+Currently working on [Cryptoys](https://cryptoys.com) by [OnChainStudios](https://www.onchainstudios.com) 💻<br/>
 <br/>
 <br/>
 💞️ I’m looking to collaborate on projects with golang java or rust<br/>
