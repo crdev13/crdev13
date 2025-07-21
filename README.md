@@ -1,9 +1,8 @@
-Hi, I’m Carlos 👋<br/>
-Currently working on [Cryptoys](https://cryptoys.com) by [OnChainStudios](https://www.onchainstudios.com) 💻<br/>
-<br/>
-<br/>
-💞️ I’m looking to collaborate on projects with golang java or rust<br/>
-📫 How to reach me coronadorodrigo31@gmail.com
+## Hi, I’m Carlos 👋
+
+🎯 Senior Backend Engineer focused on building scalable APIs and backend systems  
+💬 Open to collaborating on projects with **Golang**, **Java**, **Python**, **Elixir**, or **Dart**  
+📫 Reach me at: **coronadorodrigo31@gmail.com**
 
 <!---
 crdev13/crdev13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
